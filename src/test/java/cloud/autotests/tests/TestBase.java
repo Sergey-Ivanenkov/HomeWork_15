@@ -41,4 +41,5 @@ public class TestBase {
             AllureAttachments.addVideo(sessionId);
         }
     }
+
 }

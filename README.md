@@ -34,7 +34,7 @@
 
 <a target="_blank" href="https://jenkins.autotests.cloud/job/Sergey-Ivanenkov-homeWork_15/">Сборка в Jenkins</a>
 <p align="center">
-<a href="https://jenkins.autotests.cloud/job/Sergey-Ivanenkov-homeWork_15/"><img src="images/jenkins_job.png" alt="Jenkins"/></a>
+<a href="https://jenkins.autotests.cloud/job/Sergey-Ivanenkov-homeWork_15/"><img src="images/jenkins-page.png" alt="Jenkins"/></a>
 </p>
 
 ### Параметры сборки в Jenkins:
@@ -69,7 +69,7 @@ test
 ### Основное окно
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/Allure_Main.png">
+<img title="Allure Overview Dashboard" src="images/allure_main.png">
 </p>
 
 
